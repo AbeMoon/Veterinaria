@@ -1,0 +1,3 @@
+Id, dueñoId, Dueño, mascota, especie, edad, peso, fecha, diagnostico, dosis
+1,1,Carlos,Juam,PERRO,3,15.5,2026-11-16,Vacunación,2.5
+2,2,Ana,Michi,GATO,2,4.2,2026-11-16,Revisión general,1.0
